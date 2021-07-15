@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something interesting
-- 🌱 I’m currently learning **Network**, **Security**, **Rust**
+- 🔭 I’m Appaji, Computer Science Student at IIT Patna
+- 🌱 Ask me about React, Git, Linux
 
 [![](https://raw.githubusercontent.com/CITIZENDOT/CITIZENDOT/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/CITIZENDOT/CITIZENDOT/blob/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 [![](https://raw.githubusercontent.com/CITIZENDOT/CITIZENDOT/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/CITIZENDOT/CITIZENDOT/blob/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
