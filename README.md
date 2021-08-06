@@ -9,5 +9,4 @@
 
 ### Stats
 
-<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg">
-<img src="./profile-summary-card-output/nord_dark/3-stats.svg">
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"> <img src="./profile-summary-card-output/nord_dark/3-stats.svg">
