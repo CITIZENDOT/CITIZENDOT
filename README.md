@@ -1,8 +1,6 @@
 # Hi there :wave:
 
-![](https://komarev.com/ghpvc/?username=CITIZENDOT)
-
-- 🔭 I’m Appaji, Computer Science Student at IIT Patna
+- 🔭 I’m Appaji, working as a Software Engineer at Infinite Reality.
 
 **I like to code in the following way.**
 
@@ -10,12 +8,3 @@
 
 
 > Write small methods. It seems that programmers love to write loooong methods where they do multiple different things. I think that a method should be created wherever you can name one. [_Reference_](https://stackoverflow.com/a/406805/12347371)
-
-## My Recent Gists
-
-- [Continuous Comparison for C++](https://gist.github.com/CITIZENDOT/8a44af09fa63de675a15af9b152366a0)
-- [Binary Search Tree with Smart Pointers](https://gist.github.com/CITIZENDOT/db5a5b9215bafc58e553fbbc730710d2)
-
-## Stats
-
-<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"> <img src="./profile-summary-card-output/nord_dark/3-stats.svg">
