@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-- 🔭 I’m Appaji, working as a Software Engineer at Infinite Reality.
+- 🔭 I’m Appaji, working as Web Solutions Engineer at Google.
 
 **I like to code in the following way.**
 
